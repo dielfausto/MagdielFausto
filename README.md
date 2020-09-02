@@ -7,6 +7,7 @@ In my free time I like to play (and watch) soccer (⚽️), to watch movies (�
 Would you like to find me?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/MagdielMendonça)](https://www.linkedin.com/in/magdiel-mendon%C3%A7a-10006b165/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c5392a?style=flat&logo=Gmail&logoColor=white&link=mailto:dielfm@gmail.com)](mailto:dielfm@gmail.com) 
 
 ### 💻 &nbsp; My skills: <br/> <br/> 
 ![Angular](https://img.shields.io/badge/-Angular-ff0d00?style=flat&logoColor=white&logo=angular)
