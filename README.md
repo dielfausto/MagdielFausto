@@ -12,8 +12,6 @@ Would you like to find me?
 ![Angular](https://img.shields.io/badge/-Angular-ff0d00?style=flat&logoColor=white&logo=angular)
 ![Apache_Maven](https://img.shields.io/badge/-Apache_Maven-yellow?style=flat&logoColor=white&logo=apache+maven)
 ![AWS](https://img.shields.io/badge/-AWS%20S3-green?style=flat&logoColor=amazon&logo=amazon)
-
-![Bitrix24](https://img.shields.io/badge/-Bitrix24-orange?style=flat&logoColor=white&logo=bitrix24)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-ff0d00?style=flat&logoColor=white&logo=bootstrap)
 
 ![C](https://img.shields.io/badge/-C-brown?style=flat&logoColor=white&logo=c)
